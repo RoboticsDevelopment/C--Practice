@@ -1,0 +1,16 @@
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.exe
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.deps.json
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.runtimeconfig.json
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.runtimeconfig.dev.json
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.dll
+C:\Development\C# Practice\DateTime\DateTime\bin\Debug\net5.0\DateTimeX.pdb
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.csproj.AssemblyReference.cache
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.AssemblyInfoInputs.cache
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.AssemblyInfo.cs
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.dll
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\refint\DateTimeX.dll
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.pdb
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\DateTimeX.genruntimeconfig.cache
+C:\Development\C# Practice\DateTime\DateTime\obj\Debug\net5.0\ref\DateTimeX.dll

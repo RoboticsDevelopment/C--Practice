@@ -1,0 +1,16 @@
+C:\Development\C# Practice\WPF_ZooApp\bin\Debug\WPF_ZooApp.exe.config
+C:\Development\C# Practice\WPF_ZooApp\bin\Debug\WPF_ZooApp.exe
+C:\Development\C# Practice\WPF_ZooApp\bin\Debug\WPF_ZooApp.pdb
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.csproj.AssemblyReference.cache
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.csproj.SuggestedBindingRedirects.cache
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\MainWindow.g.cs
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\App.g.cs
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp_MarkupCompile.cache
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp_MarkupCompile.lref
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\MainWindow.baml
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.g.resources
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.Properties.Resources.resources
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.csproj.GenerateResource.cache
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.exe
+C:\Development\C# Practice\WPF_ZooApp\obj\Debug\WPF_ZooApp.pdb

@@ -1,0 +1,8 @@
+C:\Development\C# Practice\Linq1\bin\Debug\Linq1.exe.config
+C:\Development\C# Practice\Linq1\bin\Debug\Linq1.exe
+C:\Development\C# Practice\Linq1\bin\Debug\Linq1.pdb
+C:\Development\C# Practice\Linq1\obj\Debug\Linq1.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Linq1\obj\Debug\Linq1.csproj.SuggestedBindingRedirects.cache
+C:\Development\C# Practice\Linq1\obj\Debug\Linq1.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Linq1\obj\Debug\Linq1.exe
+C:\Development\C# Practice\Linq1\obj\Debug\Linq1.pdb

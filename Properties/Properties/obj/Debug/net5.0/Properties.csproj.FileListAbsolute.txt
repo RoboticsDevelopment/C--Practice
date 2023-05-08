@@ -1,0 +1,16 @@
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.exe
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.deps.json
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.dll
+C:\Development\C# Practice\Properties\Properties\bin\Debug\net5.0\Properties.pdb
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.dll
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\refint\Properties.dll
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.pdb
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+C:\Development\C# Practice\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll

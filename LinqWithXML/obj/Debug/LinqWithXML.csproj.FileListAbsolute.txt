@@ -1,0 +1,8 @@
+C:\Development\C# Practice\LinqWithXML\obj\Debug\LinqWithXML.csproj.AssemblyReference.cache
+C:\Development\C# Practice\LinqWithXML\obj\Debug\LinqWithXML.csproj.SuggestedBindingRedirects.cache
+C:\Development\C# Practice\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Development\C# Practice\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Development\C# Practice\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Development\C# Practice\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Development\C# Practice\LinqWithXML\obj\Debug\LinqWithXML.pdb

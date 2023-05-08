@@ -1,0 +1,16 @@
+C:\Development\C# Practice\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Development\C# Practice\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Development\C# Practice\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.csproj.SuggestedBindingRedirects.cache
+C:\Development\C# Practice\LinqToSQL\obj\Debug\MainWindow.g.cs
+C:\Development\C# Practice\LinqToSQL\obj\Debug\App.g.cs
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+C:\Development\C# Practice\LinqToSQL\obj\Debug\MainWindow.baml
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.cache
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Development\C# Practice\LinqToSQL\obj\Debug\LinqToSQL.pdb

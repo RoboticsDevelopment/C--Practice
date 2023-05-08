@@ -1,0 +1,16 @@
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.exe
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.deps.json
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.runtimeconfig.json
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.runtimeconfig.dev.json
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.dll
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\bin\Debug\net5.0\AnimalInheritance.pdb
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.csproj.AssemblyReference.cache
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.AssemblyInfo.cs
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.dll
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\refint\AnimalInheritance.dll
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.pdb
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\AnimalInheritance.genruntimeconfig.cache
+C:\Development\C# Practice\AnimalInheritance\AnimalInheritance\obj\Debug\net5.0\ref\AnimalInheritance.dll

@@ -1,0 +1,16 @@
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.AssemblyInfo.cs
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.exe
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.deps.json
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.runtimeconfig.json
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.runtimeconfig.dev.json
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.dll
+C:\Development\C# Practice\Nov1Practice\bin\Debug\net5.0\Nov1Practice.pdb
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.dll
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\refint\Nov1Practice.dll
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.pdb
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\Nov1Practice.genruntimeconfig.cache
+C:\Development\C# Practice\Nov1Practice\obj\Debug\net5.0\ref\Nov1Practice.dll

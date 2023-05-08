@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPFPizzaMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFPizzaMenu"
+        mc:Ignorable="d"
+        Title="Government Pizza Menu" Height="250" Width="600">
+    <StackPanel>
+        <Label FontWeight="Bold"> Pizza Toppings</Label>
+        <CheckBox Name ="cbAllToppings" IsThreeState="True" Checked="cbAllCheckedChanged" Unchecked="cbAllCheckedChanged"> Add all</CheckBox>
+        <StackPanel Margin=" 10">
+            <CheckBox Name="cbSalami" Checked=" cbSingleCheckedChanged" Unchecked = "cbSingleCheckedChanged">
+                <TextBlock>
+                    Salami <Run Foreground="Red" FontWeight="Bold">Spicy</Run>
+                </TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbMushrooms"  Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mushrooms</CheckBox>
+            <CheckBox Name="cbBraces"     Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Braces</CheckBox>
+            <CheckBox Name="cbMozzarella" Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mozzarella</CheckBox>
+
+
+        </StackPanel>
+    
+    
+    
+    </StackPanel>
+</Window>

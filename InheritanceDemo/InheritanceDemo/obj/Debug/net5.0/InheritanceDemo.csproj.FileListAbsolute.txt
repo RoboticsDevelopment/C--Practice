@@ -1,0 +1,16 @@
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\refint\InheritanceDemo.dll
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
+C:\Development\C# Practice\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll

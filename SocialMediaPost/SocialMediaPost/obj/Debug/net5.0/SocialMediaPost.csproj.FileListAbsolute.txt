@@ -1,0 +1,16 @@
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.exe
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.deps.json
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.runtimeconfig.json
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.runtimeconfig.dev.json
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.dll
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\bin\Debug\net5.0\SocialMediaPost.pdb
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.csproj.AssemblyReference.cache
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.AssemblyInfoInputs.cache
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.AssemblyInfo.cs
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.dll
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\refint\SocialMediaPost.dll
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.pdb
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\SocialMediaPost.genruntimeconfig.cache
+C:\Development\C# Practice\SocialMediaPost\SocialMediaPost\obj\Debug\net5.0\ref\SocialMediaPost.dll

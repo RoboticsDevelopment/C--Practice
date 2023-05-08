@@ -1,0 +1,16 @@
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.exe
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.deps.json
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.runtimeconfig.json
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.runtimeconfig.dev.json
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.dll
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\bin\Debug\net5.0\DebuggingFriendsList.pdb
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.csproj.AssemblyReference.cache
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.AssemblyInfoInputs.cache
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.AssemblyInfo.cs
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.dll
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\refint\DebuggingFriendsList.dll
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.pdb
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\DebuggingFriendsList.genruntimeconfig.cache
+C:\Development\C# Practice\DebuggingFriendsList\DebuggingFriendsList\obj\Debug\net5.0\ref\DebuggingFriendsList.dll

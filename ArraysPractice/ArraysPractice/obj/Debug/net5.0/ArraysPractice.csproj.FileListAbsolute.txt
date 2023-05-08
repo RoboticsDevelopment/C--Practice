@@ -1,0 +1,16 @@
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.exe
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.deps.json
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.runtimeconfig.json
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.runtimeconfig.dev.json
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.dll
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\bin\Debug\net5.0\ArraysPractice.pdb
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.csproj.AssemblyReference.cache
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.AssemblyInfoInputs.cache
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.AssemblyInfo.cs
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.dll
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\refint\ArraysPractice.dll
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.pdb
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ArraysPractice.genruntimeconfig.cache
+C:\Development\C# Practice\ArraysPractice\ArraysPractice\obj\Debug\net5.0\ref\ArraysPractice.dll

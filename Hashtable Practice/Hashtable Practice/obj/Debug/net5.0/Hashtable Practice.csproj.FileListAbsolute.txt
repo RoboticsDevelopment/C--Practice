@@ -1,0 +1,16 @@
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.exe
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.deps.json
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.runtimeconfig.json
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.runtimeconfig.dev.json
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.dll
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\bin\Debug\net5.0\Hashtable Practice.pdb
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.AssemblyInfo.cs
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.dll
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\refint\Hashtable Practice.dll
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.pdb
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\Hashtable Practice.genruntimeconfig.cache
+C:\Development\C# Practice\Hashtable Practice\Hashtable Practice\obj\Debug\net5.0\ref\Hashtable Practice.dll

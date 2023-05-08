@@ -1,0 +1,15 @@
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\bin\Debug\net6.0\Classes__Basics2.exe
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\bin\Debug\net6.0\Classes__Basics2.deps.json
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\bin\Debug\net6.0\Classes__Basics2.runtimeconfig.json
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\bin\Debug\net6.0\Classes__Basics2.dll
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\bin\Debug\net6.0\Classes__Basics2.pdb
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.AssemblyInfo.cs
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.dll
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\refint\Classes__Basics2.dll
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.pdb
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\Classes__Basics2.genruntimeconfig.cache
+C:\Development\C# Practice\Classes__Basics2\Classes__Basics2\obj\Debug\net6.0\ref\Classes__Basics2.dll

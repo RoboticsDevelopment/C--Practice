@@ -1,0 +1,16 @@
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.exe
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.deps.json
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.runtimeconfig.json
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.runtimeconfig.dev.json
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.dll
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\bin\Debug\net5.0\TickWhackToad.pdb
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.csproj.AssemblyReference.cache
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.AssemblyInfoInputs.cache
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.AssemblyInfo.cs
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.dll
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\refint\TickWhackToad.dll
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.pdb
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\TickWhackToad.genruntimeconfig.cache
+C:\Development\C# Practice\TickWhackToad\TickWhackToad\obj\Debug\net5.0\ref\TickWhackToad.dll

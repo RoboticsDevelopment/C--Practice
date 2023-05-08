@@ -1,0 +1,16 @@
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.exe
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.deps.json
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.runtimeconfig.json
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.runtimeconfig.dev.json
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.dll
+C:\Development\C# Practice\Classes__Basics3\bin\Debug\net5.0\Classes__Basics3.pdb
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.AssemblyInfo.cs
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.dll
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\refint\Classes__Basics3.dll
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.pdb
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\Classes__Basics3.genruntimeconfig.cache
+C:\Development\C# Practice\Classes__Basics3\obj\Debug\net5.0\ref\Classes__Basics3.dll

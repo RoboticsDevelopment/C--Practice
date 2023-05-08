@@ -1,0 +1,5 @@
+C:\Development\C# Practice\PatsFirstDictionary\PatsFirstDictionary\obj\Debug\net5.0\PatsFirstDictionary.csproj.AssemblyReference.cache
+C:\Development\C# Practice\PatsFirstDictionary\PatsFirstDictionary\obj\Debug\net5.0\PatsFirstDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\PatsFirstDictionary\PatsFirstDictionary\obj\Debug\net5.0\PatsFirstDictionary.AssemblyInfoInputs.cache
+C:\Development\C# Practice\PatsFirstDictionary\PatsFirstDictionary\obj\Debug\net5.0\PatsFirstDictionary.AssemblyInfo.cs
+C:\Development\C# Practice\PatsFirstDictionary\PatsFirstDictionary\obj\Debug\net5.0\PatsFirstDictionary.csproj.CoreCompileInputs.cache

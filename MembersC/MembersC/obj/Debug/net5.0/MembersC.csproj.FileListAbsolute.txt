@@ -1,0 +1,16 @@
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.exe
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.deps.json
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.runtimeconfig.json
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.runtimeconfig.dev.json
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.dll
+C:\Development\C# Practice\MembersC\MembersC\bin\Debug\net5.0\MembersC.pdb
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.csproj.AssemblyReference.cache
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.AssemblyInfoInputs.cache
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.AssemblyInfo.cs
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.dll
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\refint\MembersC.dll
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.pdb
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\MembersC.genruntimeconfig.cache
+C:\Development\C# Practice\MembersC\MembersC\obj\Debug\net5.0\ref\MembersC.dll

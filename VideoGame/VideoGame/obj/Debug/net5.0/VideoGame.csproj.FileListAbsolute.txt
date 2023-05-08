@@ -1,0 +1,16 @@
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.exe
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.deps.json
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.runtimeconfig.json
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.runtimeconfig.dev.json
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.dll
+C:\Development\C# Practice\VideoGame\VideoGame\bin\Debug\net5.0\VideoGame.pdb
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.csproj.AssemblyReference.cache
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.AssemblyInfoInputs.cache
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.AssemblyInfo.cs
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.dll
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\refint\VideoGame.dll
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.pdb
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\VideoGame.genruntimeconfig.cache
+C:\Development\C# Practice\VideoGame\VideoGame\obj\Debug\net5.0\ref\VideoGame.dll

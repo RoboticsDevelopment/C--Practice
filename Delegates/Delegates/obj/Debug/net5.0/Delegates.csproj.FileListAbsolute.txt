@@ -1,0 +1,16 @@
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+C:\Development\C# Practice\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\refint\Delegates.dll
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
+C:\Development\C# Practice\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
